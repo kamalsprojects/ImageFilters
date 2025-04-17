@@ -18,3 +18,5 @@ All filters:
 You can also adjuct the brightness and contrast of the image aswell as draw on the image using a multisized brush.
 
 I will be updating and adding new features whenever I have time. 
+
+Link to download: https://drive.google.com/file/d/1Nq9dzcQsbJVfmit4MDusdGmtBPEJ_mem/view?usp=sharing
